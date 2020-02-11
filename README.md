@@ -3,7 +3,7 @@ https://vtex.com/us-en/
 
 ## Blunt
 
-https://blunt.af/tachy.app/
+https://blunt.af
 
 ## Tachy-tools
 http://tachy.tools/
