@@ -1,5 +1,9 @@
 ## One must understand there exists two way conversion : Figma-to-React and its Vice-versa
+
+### Figma-to-React
 https://github.com/figma/figma-api-demo/tree/master/figma-to-react
+
+### React-to-Figma
 https://github.com/syyunn/react-figma
 
 
