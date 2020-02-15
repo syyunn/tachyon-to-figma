@@ -4,7 +4,7 @@
 https://github.com/figma/figma-api-demo/tree/master/figma-to-react
 
 ### React-to-Figma
-https://github.com/syyunn/react-figma
+https://github.com/react-figma/react-figma
 
 
 ## VTEX
